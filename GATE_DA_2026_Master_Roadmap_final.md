@@ -4,7 +4,7 @@
 
 # 📑 Table of Contents (Compact)
 
-- [📊 Weightage reality (GATE DA typical distribution)](#-weightage-reality-gate-da-typical-distribution)
+- [📊 Weightage reality (GATE DA typical distribution)](#weightage)
 - [📅 Final High-level Roadmap (Full Syllabus Map)](#roadmap)
 - [🧠 GATE DA 2026 — Final Strategy & Execution Playbook](#playbook)
   - [📍 1. The Big Picture — How This Roadmap Works](#bigpicture)
